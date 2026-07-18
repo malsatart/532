@@ -6,7 +6,7 @@ The application may use standard Android system services necessary for its opera
 
 If you have any questions regarding this Privacy Policy, you can contact:
 
-Email: tonadresse@email.com
+Email: malsatacaslte@gmail.com
 
 This Privacy Policy may be updated in the future if the application's features change.
 
